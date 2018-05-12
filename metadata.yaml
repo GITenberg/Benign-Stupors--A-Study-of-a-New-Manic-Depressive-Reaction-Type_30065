@@ -1,0 +1,36 @@
+_repo: Benign-Stupors--A-Study-of-a-New-Manic-Depressive-Reaction-Type_30065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoch, August
+    birthdate: 1868
+    deathdate: 1919
+    gutenberg_agent_id: '34345'
+    url: http://www.gutenberg.org/2009/agents/34345
+  editor:
+    agent_name: MacCurdy, John T. (John Thompson)
+    aliases:
+    - MacCurdy, J. T. (John Thompson)
+    - MacCurdy, John Thompson
+    birthdate: 1886
+    gutenberg_agent_id: '34347'
+    url: http://www.gutenberg.org/2009/agents/34347
+description: ''
+gutenberg_issued: '2009-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30065'
+  lccn: '21015343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manic-depressive illness'
+- !lcsh 'Stupor'
+- !lcc 'RC'
+title: 'Benign Stupors: A Study of a New Manic-Depressive Reaction Type'
+url: http://www.gutenberg.org/ebooks/30065
